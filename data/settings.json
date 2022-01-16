@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "M365",
+      "topics": [
+        {
+          "title": "",
+          "slug": ""
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
